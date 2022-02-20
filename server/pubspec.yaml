@@ -8,6 +8,7 @@ environment:
 
 
 dependencies:
+  argon2: ^1.0.1
   args: ^2.0.0
   dart_mongo_lite: ^0.1.1
   json_annotation: ^4.4.0
